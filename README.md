@@ -38,7 +38,7 @@ Now that it is loaded to Chrome, it will appear on the top right side of the bro
 What you need to do now is set your running webservice address and the frequency which you'll like the extension to check for new tickets:    
 1- Right-click the extension and select 'Options'   
 2- On the Options page, set your running backend service address and frequency.   
-Exemple:   
+Example:   
 Address: http://localhost:3030/tickets   
 Frequency (in minutes): 10     
 3- You're good to go  
