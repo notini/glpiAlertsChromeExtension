@@ -1,0 +1,22 @@
+{
+  "name": "restfultest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cors": "^2.8.1",
+    "nodemailer": "^2.6.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://notini@bitbucket.org/notini/restfulglpiserver.git"
+  },
+  "homepage": "https://bitbucket.org/notini/restfulredditserver#readme",
+  "description": ""
+}
