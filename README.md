@@ -43,4 +43,4 @@ Address: http://localhost:3030/tickets
 Frequency (in minutes): 10     
 3- You're good to go  
 
-Now, every n minutes, whenever there's a new ticket in your glpi database, a Chrome Alert will pop-up with its ID and title.
+Now, every 10 minutes, whenever there's a new ticket in your glpi database, a Chrome Alert will pop-up with its ID and title.
